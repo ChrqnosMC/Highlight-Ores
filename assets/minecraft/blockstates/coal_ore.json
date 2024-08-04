@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "minecraft:block/coal_ore" },
+            { "model": "minecraft:block/coal_ore0" },
+            { "model": "minecraft:block/coal_ore1" }
+        ]
+    }
+}
