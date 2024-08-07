@@ -1,2 +1,2 @@
 # Highlight Ores
- Ressourcepack that improves the visibility of ores
+ Resourcepack that improves the visibility of ores
