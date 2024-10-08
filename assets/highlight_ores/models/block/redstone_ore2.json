@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "highlight_ores:block/redstone_ore2"
+  }
+}

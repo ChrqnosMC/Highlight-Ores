@@ -1,9 +1,9 @@
 {
     "variants": {
         "": [
-            { "model": "block/deepslate_copper_ore"},
-            { "model": "block/deepslate_copper_ore0"},
-			{ "model": "block/deepslate_copper_ore1"}
+            { "model": "minecraft:block/deepslate_copper_ore"},
+            { "model": "highlight_ores:block/deepslate_copper_ore1"},
+			{ "model": "highlight_ores:block/deepslate_copper_ore2"}
         ]
     }
 }

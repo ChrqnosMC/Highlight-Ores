@@ -1,9 +1,9 @@
 {
     "variants": {
         "": [
-            { "model": "block/copper_ore"},
-            { "model": "block/copper_ore0"},
-			{ "model": "block/copper_ore1"}
+            { "model": "minecraft:block/copper_ore"},
+            { "model": "highlight_ores:block/copper_ore1"},
+			{ "model": "highlight_ores:block/copper_ore2"}
         ]
     }
 }

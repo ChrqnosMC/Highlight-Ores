@@ -2,8 +2,8 @@
     "variants": {
         "": [
             { "model": "minecraft:block/lapis_ore" },
-            { "model": "minecraft:block/lapis_ore0" },
-            { "model": "minecraft:block/lapis_ore1" }
+            { "model": "highlight_ores:block/lapis_ore1" },
+            { "model": "highlight_ores:block/lapis_ore2" }
         ]
     }
 }
