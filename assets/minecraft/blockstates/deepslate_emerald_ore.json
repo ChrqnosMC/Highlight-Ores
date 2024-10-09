@@ -2,8 +2,8 @@
     "variants": {
         "": [
             { "model": "minecraft:block/deepslate_emerald_ore" },
-            { "model": "minecraft:block/deepslate_emerald_ore0" },
-            { "model": "minecraft:block/deepslate_emerald_ore1" }
+            { "model": "highlight_ores:block/deepslate_emerald_ore1" },
+            { "model": "highlight_ores:block/deepslate_emerald_ore2" }
         ]
     }
 }

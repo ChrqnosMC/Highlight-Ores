@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/cube_column",
+	"textures": {
+		"end": "highlight_ores:block/deepslate_lapis_ore_top1",
+		"side": "highlight_ores:block/deepslate_lapis_ore1"
+	}
+}
